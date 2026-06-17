@@ -3,7 +3,7 @@
   "name": "插件面板",
   "version": "1.0.0",
   "description": "在侧边栏添加插件面板快捷入口，一键跳转。",
-  "author": "EchoMusic",
+  "author": "yaoyaoprincess",
   "icon": "icon.svg",
   "main": "index.js",
   "requires": {
